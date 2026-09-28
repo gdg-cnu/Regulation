@@ -8,8 +8,9 @@ GDG on Campus Chonnam National University(GDGoC CNU)의 회칙입니다.
 
 ## 관리
 
-- 이 레포는 오직 Pull Request와 운영진(`@gdg-cnu/managers`)의 Review가 있어야만 업데이트가 가능합니다.
-- `main`에 직접 push, force push, 브랜치 삭제는 막혀 있으며 관리자도 예외가 없습니다.
+- 이 레포는 오직 Pull Request로만 업데이트가 가능합니다. `main`에 직접 push, force push, 브랜치 삭제는 막혀 있으며 관리자도 예외가 없습니다.
+- 회칙(`index.md`)과 사이트·규칙 설정 파일을 바꾸는 PR은 운영진(`@gdg-cnu/managers`)의 Review가 있어야만 머지할 수 있습니다.
+- README만 바꾸는 PR은 승인 없이 바로 머지할 수 있습니다.
 
 ### 회칙 개정
 

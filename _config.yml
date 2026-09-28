@@ -1,0 +1,7 @@
+title: GDGoC CNU 회칙
+description: GDG on Campus Chonnam National University의 회칙입니다.
+lang: ko
+theme: jekyll-theme-primer
+exclude: [README.md]
+kramdown:
+  toc_levels: 2..3
